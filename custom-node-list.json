@@ -17933,6 +17933,17 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+        {
+            "author": "windfancy",
+            "title": "llm nodes for comfyui",
+            "id": "zsq_llm",
+            "reference": "https://github.com/windfancy/zsq_llm",
+            "files": [
+                "https://github.com/windfancy/zsq_llm"
+            ],
+            "install_type": "git-clone",
+            "description": "The Qwen2-1.5B model was used to chinese_to_english，The SmolVLM/Qwen2-VL-2B model image was used to inference the image prompt words."
         }
     ]
 }
